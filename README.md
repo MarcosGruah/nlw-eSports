@@ -1,5 +1,11 @@
 # nlw-eSports-ignite
 
+## Front-End
+
+- Vite
+- React
+- TypeScript
+
 ## Back-End
 
 - Node
