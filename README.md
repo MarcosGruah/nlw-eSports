@@ -2,8 +2,8 @@
 
 ## Back-End
 
-- Nodejs
-- Expressjs
+- Node
+- Express
 
 ## The Project
 
