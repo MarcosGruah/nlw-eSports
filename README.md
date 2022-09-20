@@ -5,6 +5,8 @@
 - Vite
 - React
 - TypeScript
+- TailwindCSS
+- PostCSS
 
 ## Back-End
 
