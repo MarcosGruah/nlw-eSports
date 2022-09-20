@@ -4,6 +4,7 @@
 
 - Node
 - Express
+- TypeScript
 
 ## The Project
 
