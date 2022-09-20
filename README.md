@@ -1,5 +1,10 @@
 # nlw-eSports-ignite
 
+## Back-End
+
+- Nodejs
+- Expressjs
+
 ## The Project
 
 [![Landing](https://i.imgur.com/BBO9q5J.jpg 'Landing')](https://i.imgur.com/BBO9q5J.jpg 'Landing')
