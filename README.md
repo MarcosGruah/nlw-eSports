@@ -13,6 +13,9 @@
 - Node
 - Express
 - TypeScript
+- SQLite
+- Prisma
+- Cors
 
 ## The Project
 
