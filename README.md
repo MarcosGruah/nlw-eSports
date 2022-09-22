@@ -7,6 +7,7 @@
 - TypeScript
 - TailwindCSS
 - PostCSS
+- Axios
 
 ## Back-End
 
