@@ -27,4 +27,4 @@ A Website that allows the user to find partners to play games together. The user
 
 The back-end is built using Node and Express with TypeScript. Prisma ORM handles the connection with the SQLite Database.
 
-The front-end uses Vite to set up the work environment, with React and TypeScript. TailwindCSS is used as a plugin for PostCSS to handle styling for the project and Axios is then used to handle the API requests.
+The front-end uses Vite to set up the work environment, with React and TypeScript. TailwindCSS is used as a plugin for PostCSS to handle styling for the project and Axios is then used to make the API requests.
